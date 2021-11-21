@@ -5,7 +5,7 @@ This Kickstarter_Challenge document offers an analysis on different media fundra
 
 ## Analysis and Challenges   
 
-###Theater Outcomes by Launch Date
+### Theater Outcomes by Launch Date
 “Theater Outcomes by Launch Date” is a pivot table that filters by major category and years to output a table that gives the number of successful, failed, and canceled media per month for all years.  See “Theater_Outcomes_vs_Goals.PNG” for a photo of the graph associated with this pivot table.  
 
 ### Outcomes Based on Goals 
